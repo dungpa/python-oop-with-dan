@@ -1,0 +1,17 @@
+Park 1:
+Start Time: 9:00 AM
+Closing Time: 5:00 PM
+Address: 1234 Park Avenue, Anytown
+Common Rule: Please refrain from feeding the animals.
+
+Park 2:
+Start Time: 8:30 AM
+Closing Time: 6:00 PM
+Address: 5678 Nature Lane, Wilderness City
+Common Rule: Stay hydrated and carry enough water during your visit.
+
+Park 3:
+Start Time: 10:00 AM
+Closing Time: 4:30 PM
+Address: 9876 Forest Road, Mountainville
+Common Rule: Do not disturb the wildlife and maintain a safe distance.

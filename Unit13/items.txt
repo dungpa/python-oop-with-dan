@@ -1,0 +1,7 @@
+Torch
+[A bright torch that wards off the dark]
+{Using it keeps you warm and the dark at bay}
+
+Gold Coins
+[A whole heap of golden coins for the taking]
+{You're sure you can buy many a thing with this amount of money}

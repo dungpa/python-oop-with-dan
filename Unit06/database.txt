@@ -1,0 +1,10 @@
+Max,3,Dog,Dog Food
+Whiskers,5,Cat,Tuna
+Bubbles,1,Fish,Fish Food
+Charlie,2,Bird,Seeds
+Luna,4,Cat,Salmon
+Nemo,2,Fish,Fish Food
+Rocky,6,Dog,Chicken
+Mittens,3,Cat,Salmon
+Kiwi,1,Bird,Bird Seeds
+Oscar,4,Fish,Fish Food

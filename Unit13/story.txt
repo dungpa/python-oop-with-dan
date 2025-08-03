@@ -1,0 +1,64 @@
+Chapter 1
+Once upon a time, in a small village surrounded by a dense forest, lived a brave young adventurer named Alex. One sunny morning, Alex decided to explore the mysterious forest. As Alex stepped into the forest, a magical creature appeared. It was a talking rabbit named Rosie.
+"Hello, Alex!" Rosie exclaimed. "Would you like to embark on a magical forest adventure with me?"
+Excitedly, Alex agreed. Rosie led the way through the forest, and soon they reached a fork in the path. Rosie turned to Alex and said, "Which path should we take, left or right?".
+[Left Path choice: go to Chapter 2]
+[Right Path choice: go to Chapter 3]
+
+Chapter 2
+Alex and Rosie followed the left path and stumbled upon a sparkling river. "Let's cross it!" Rosie said, pointing to a rickety bridge. However, the bridge looked quite unstable.
+[Crossing the bridge: go to Chapter 4]
+[Find another way: go to Chapter 5]
+
+Chapter 3
+Alex and Rosie took the right path and discovered a hidden cave entrance. The cave was dark and mysterious, but Alex wasn't afraid.
+Next to the cave entrance was a torch, which they picked up for safe keeping. (Have Torch)
+[Enter the cave: go to Chapter 6]
+[Explore the forest more: go to Chapter 7]
+
+Chapter 4
+Alex and Rosie carefully stepped onto the rickety bridge. They made it halfway across when suddenly, it started to shake! They had to make a quick decision.
+[Run to the other side: go to Chapter 8]
+[Turn back and fine another way: go to Chapter 5]
+
+Chapter 5
+Alex and Rosie decided to find another way to cross the river. As they explored, they discovered a hidden boat near the riverbank. Together, they rowed across the river and continued their adventure.
+[Go to Chapter 9]
+
+Chapter 6
+Alex and Rosie bravely entered the dark cave. Inside, they discovered a treasure chest gleaming with gold and jewels. But next to the chest was a sleeping dragon!
+[Take the treasure: go to Chapter 10]
+[Leave the treasure and exit: go to Chapter 11]
+
+Chapter 7
+Alex and Rosie decided to explore the forest some more. While wandering, they encountered a group of friendly woodland creatures. The creatures led them to a magical waterfall, where they had a picnic together.
+(Have Torch) [Go to Chapter 12]
+(Otherwise) [Go to Chapter 9]
+
+Chapter 8
+Alex and Rosie ran as fast as they could and safely reached the other side of the bridge. They were relieved and continued their journey deeper into the forest.
+[Go to Chapter 9]
+
+Chapter 9
+As Alex and Rosie ventured deeper into the forest, they stumbled upon a mystical garden filled with colourful flowers and talking animals. They spent hours exploring and playing before deciding it was time to head back home.
+(Have Gold Coins) At least they have those old gold coins they found. They make a nice prize for their adventure.
+[End Story]
+
+Chapter 10
+Alex and Rosie couldn't resist the temptation and decided to take the treasure. As they touched the treasure chest, the dragon suddenly woke up and roared loudly! Frightened, they dropped the treasure and ran out of the cave as fast as they could.
+[Go to Chapter 9]
+
+Chapter 11
+Alex and Rosie decided not to risk waking the dragon. They left the treasure chest untouched and made their way out of the cave quietly.
+[Go to Chapter 9]
+
+Chapter 12
+(Have Torch) Alex and Rose saw a pile of dead leaves that look like they hid some treasure.
+[Burn leaves: Go to Chapter 13]
+[Leave: Go to Chapter 9]
+
+Chapter 13
+After burning the dead leaves, they saw some old gold coins. They look like they may be worth a lot!
+(Have Gold Coins)
+[Go to Chapter 9]
+

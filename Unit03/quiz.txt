@@ -1,0 +1,4 @@
+What programming language are we using?,Python
+What is the name for a location where a single value can be stored?,variable
+What is the data type used for whole numbers?,integer
+What loop repeats instructions for every element in a collection?,for

@@ -1,0 +1,3 @@
+Metres to Miles -> divide by 1609
+Metres to Yards -> multiply by 1.094
+Miles to Yards -> multiply by 1760
