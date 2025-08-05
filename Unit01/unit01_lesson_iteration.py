@@ -9,7 +9,7 @@ for i in range(number):
     for i in range(10):
 
 
-    randomlist.append(randint(0, 100)
+    randomlist.append(randint(0, 100))
 
 
     print(randomlist)
